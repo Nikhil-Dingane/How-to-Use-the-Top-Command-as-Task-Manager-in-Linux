@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/Nikhil-Dingane/How-to-Use-the-Top-Command-as-Task-Manager-in-Linux/blob/main/images/Screenshot%20from%202020-12-23%2012-48-47.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
