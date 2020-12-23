@@ -1,6 +1,6 @@
 Windows user often uses the task manager to monitor or end the task, but when we comes to Linux there is no such task manager with rich UI. Instead of GUI task manager there is a mangical command is avialable on the Linux which can be used as task manager on the Linux.The top command offers a quick overview of system information. It reports data about current processes which is refreshed (by default) every 3 seconds. I am going to give a short introduction of the 'top' command. The top command offers a quick overview of system information. It reports data about current processes which is refreshed (by default) every 3 seconds.Using and understanding a program like top is an essential system administration skill.
 
-##Understanding top command in Linux
+## Understanding top command in Linux
 
     top
 
