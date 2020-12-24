@@ -6,8 +6,7 @@ Windows user often uses the task manager to monitor or end the task, but when we
 
 This simple command will bring you into the top application. When you want to exit, type the letter q to quit. There are also other key commands to make full use of it that I’ll discuss later.
 
-
-![image](https://github.com/Nikhil-Dingane/How-to-Use-the-Top-Command-as-Task-Manager-in-Linux/blob/main/images/Screenshot%20from%202020-12-23%2012-48-47.png)
+<img src="https://github.com/Nikhil-Dingane/How-to-Use-the-Top-Command-as-Task-Manager-in-Linux/blob/main/images/Screenshot%20from%202020-12-23%2012-48-47.png" alt="hi" class="inline"/>
 
 You can easily check CPU load, the number of current tasks, as well as viewing information about memory usage.There is a lot of detailed information displayed in a condensed format. Let’s break it into smaller pieces so that we can understand it. The first four lines contain the overview data I mentioned before. Let’s understand them line by line.
 
